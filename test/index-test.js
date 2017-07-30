@@ -20,6 +20,7 @@ describe('Intro to Mocha', function () {
   describe('favoriteIceCream()', function () {
     it('should return the correct sentence when passed an icecream flavor', function () {
       expect(favoriteIceCream('mint chocolate chip')).toEqual('I love mint chocolate chip');
+      expect(favoriteIceCream()).toEqual(undefined);
     });
   });
 
