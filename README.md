@@ -1,4 +1,4 @@
-# JavaScript Intro to Mocha
+i# JavaScript Intro to Mocha
 
 ## Objectives
 
